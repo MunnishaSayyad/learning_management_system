@@ -1,0 +1,17 @@
+# === Node Modules ===
+node_modules/
+
+# === Build Files ===
+dist/
+build/
+
+# === Environment Variables ===
+.env
+.env.local
+.env.*.local
+
+# === Logs ===
+logs
+*.log
+
+backend/uploads/
